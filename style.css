@@ -1,0 +1,27 @@
+body {
+  background-image: url("https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/08/minecraft-4.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#h1{
+ font-size: 26px;
+}
+
+#CW{
+  font-size: medium;
+  color:rgb(255, 255, 255);
+}
+
+#CH{
+    font-size: medium;
+    color:rgb(255, 255, 255);
+ 
+}
+
+canvas{
+  border: 10px cornflowerblue solid;
+
+  background-color: antiquewhite;
+}
